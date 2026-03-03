@@ -85,7 +85,7 @@ export default function Landing() {
         rating: 4.6,
         reviews: 650,
         pill: "Everyday",
-        img: "https://images.unsplash.com/photo-1528701800489-20be3cdd9b35?auto=format&fit=crop&w=1400&q=80",
+        img: "https://images.unsplash.com/photo-1698018574308-929deec9f832?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8d2hpdGUlMjBzaG9lfGVufDB8fDB8fHww",
       },
       {
         title: "NeoGlow Desk Lamp",
@@ -115,7 +115,7 @@ export default function Landing() {
         rating: 4.4,
         reviews: 300,
         pill: "1200W",
-        img: "https://images.unsplash.com/photo-1571687949920-b3b38d1f22f5?auto=format&fit=crop&w=1400&q=80",
+        img: "https://images.unsplash.com/photo-1570222094114-d054a817e56b?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YmxlbmRlcnxlbnwwfHwwfHx8MA%3D%3D",
       },
     ],
     []
